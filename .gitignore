@@ -1,3 +1,4 @@
 **/*.py
 **/*.ini
 **/*thumbs.db
+**/config.json

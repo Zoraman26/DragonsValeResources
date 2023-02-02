@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "vale:tools/crimson_axe"
+    "layer0": "vale:tools/spruce_fishing_rod"
   }
 }

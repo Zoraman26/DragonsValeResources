@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vale:tools/jungle_warped_fungus_on_a_stick"
+  }
+}
