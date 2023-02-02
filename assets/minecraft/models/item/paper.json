@@ -1,0 +1,25 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	"overrides": [{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "vale:Workbench/barrel_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "vale:Workbench/barrel_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "vale:Workbench/barrel_2"
+		}
+	]
+}

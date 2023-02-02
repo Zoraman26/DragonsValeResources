@@ -1,0 +1,41 @@
+{
+ "parent": "block/brownmushroom",
+ "textures": {
+  "layer0": "block/brownmushroom",
+  "particle": "block/brownmushroom"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "block/swamp_wood_log"},
+  { "predicate": {"custom_model_data": 2}, "model": "block/sculk_ore"},
+  { "predicate": {"custom_model_data": 3}, "model": "block/silver_ingot_block"},
+  { "predicate": {"custom_model_data": 4}, "model": "block/sculk_ingot_block"},
+  { "predicate": {"custom_model_data": 5}, "model": "block/crystalized_netherack"},
+  { "predicate": {"custom_model_data": 6}, "model": "block/crystalized_netherack_ingot_block"},
+  { "predicate": {"custom_model_data": 7}, "model": "block/arcane_crafting_table"},
+  { "predicate": {"custom_model_data": 8}, "model": "block/sakura_planks"},
+  { "predicate": {"custom_model_data": 9}, "model": "block/sakura_log"},
+  { "predicate": {"custom_model_data": 10}, "model": "block/sakura_wood"},
+  { "predicate": {"custom_model_data": 11}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 12}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 13}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 14}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 15}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 16}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 17}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 18}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 19}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 20}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 21}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 22}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 23}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 24}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 25}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 26}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 27}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 28}, "model": "block/brownmushroom"},
+  { "predicate": {"custom_model_data": 29}, "model": "block/brownmushroom"}
+ ]
+
+ 
+}

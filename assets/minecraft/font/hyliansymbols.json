@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "hyliansymbols.ttf",
+			"shift": [0, 1.5],
+			"size": 7.0,
+			"oversample": 20.0,
+			"skip": ""
+        }
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/wooden_pickaxe"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "vale:tools/crimson_pickaxe"},
+		{"predicate": {"custom_model_data": 2},"model": "vale:tools/warped_pickaxe"}
+			
+	]
+}

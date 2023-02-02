@@ -1,0 +1,7 @@
+{ "custom.hey_listen": { "category": "master", "sounds": [ "custom/hey_listen" ] } ,
+  "custom.hey_look": { "category": "master", "sounds": [ "custom/hey_look" ] },
+  "custom.hey_watchout": { "category": "master", "sounds": [ "custom/hey_watchout" ] },
+  "custom.mikuscream" : { "category": "master", "sounds": [ "custom/gomene_scream_short" ] },
+  "custom.fairy_revive" : { "category": "master", "sounds": [ "custom/fairy_revive" ] },
+  "custom.use_totem" : { "category": "master", "sounds": [ "custom/use_totem" ] }
+}
