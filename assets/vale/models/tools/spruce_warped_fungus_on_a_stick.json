@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/handheld_rod",
   "textures": {
     "layer0": "vale:tools/spruce_warped_fungus_on_a_stick"
   }

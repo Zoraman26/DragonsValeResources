@@ -1,6 +1,50 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/carrot_on_a_stick"
-  }
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "vale:tools/crimson_carrot_on_a_stick"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "vale:tools/warped_carrot_on_a_stick"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "vale:tools/oak_carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "vale:tools/birch_carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "vale:tools/spruce_carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "vale:tools/jungle_carrot_on_a_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "vale:tools/acacia_carrot_on_a_stick"
+        }
+    ]
 }

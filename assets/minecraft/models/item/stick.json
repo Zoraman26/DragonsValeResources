@@ -33,6 +33,18 @@
                 "custom_model_data": 5
             },
             "model": "vale:tools/spruce_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "vale:tools/jungle_stick"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "vale:tools/acacia_stick"
         }
     ]
 }

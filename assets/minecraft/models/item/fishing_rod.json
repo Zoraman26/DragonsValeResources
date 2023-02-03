@@ -1,6 +1,118 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/fishing_rod"
-  }
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/fishing_rod"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "vale:tools/crimson_fishing_rod"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "vale:tools/warped_fishing_rod"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "vale:tools/oak_fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "vale:tools/birch_fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "vale:tools/birch_fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "vale:tools/spruce_fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "vale:tools/jungle_fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "vale:tools/acacia_fishing_rod"
+        },
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "item/fishing_rod_cast"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1,
+                "cast": 1
+			},
+			"model": "vale:tools/crimson_fishing_rod_cast"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2,
+                "cast": 1
+			},
+			"model": "vale:tools/warped_fishing_rod_cast"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 3,
+                "cast": 1
+            },
+            "model": "vale:tools/oak_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4,
+                "cast": 1
+            },
+            "model": "vale:tools/birch_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4,
+                "cast": 1
+            },
+            "model": "vale:tools/birch_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "cast": 1
+            },
+            "model": "vale:tools/spruce_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "cast": 1
+            },
+            "model": "vale:tools/jungle_fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "cast": 1
+            },
+            "model": "vale:tools/acacia_fishing_rod_cast"
+        }
+    ]
 }

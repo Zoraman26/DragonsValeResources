@@ -4,7 +4,47 @@
 		"layer0": "minecraft:item/wooden_axe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1},"model": "vale:tools/crimson_axe"},
-		{"predicate": {"custom_model_data": 2},"model": "vale:tools/warped_axe"}
-	]
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "vale:tools/crimson_axe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "vale:tools/warped_axe"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "vale:tools/oak_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "vale:tools/birch_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "vale:tools/spruce_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "vale:tools/jungle_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "vale:tools/acacia_axe"
+        }
+    ]
 }
